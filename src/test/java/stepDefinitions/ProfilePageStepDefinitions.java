@@ -24,4 +24,8 @@ public class ProfilePageStepDefinitions {
 							System.out.println("Your are ont the profile page");
 								// sample
   }
+	
+	public static void method1() {
+		System.out.println("Method 1" ); 
+	}
 }
