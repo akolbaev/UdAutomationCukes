@@ -5,5 +5,23 @@ public class ProfilePageStepDefinitions {
     System.out.println("Profile page");
 	System.out.println("Your are ont the profile page");
 		// sample
+	   System.out.println("Profile page");
+		System.out.println("Your are ont the profile page");
+			// sample
+		   System.out.println("Profile page");
+			System.out.println("Your are ont the profile page");
+				// sample
+			   System.out.println("Profile page");
+				System.out.println("Your are ont the profile page");
+					// sample
+				   System.out.println("Profile page");
+					System.out.println("Your are ont the profile page");
+						// sample
+					   System.out.println("Profile page");
+						System.out.println("Your are ont the profile page");
+							// sample
+						   System.out.println("Profile page");
+							System.out.println("Your are ont the profile page");
+								// sample
   }
 }
